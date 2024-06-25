@@ -1,11 +1,9 @@
-/* CSS Reset (optional, to reset default browser styles) */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body Styles */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -14,7 +12,7 @@ body {
     margin: 20px;
 }
 
-/* Header Styles */
+
 header {
     background-color: #4CAF50;
     color: white;
@@ -23,7 +21,7 @@ header {
     margin-bottom: 20px;
 }
 
-/* Main Content Styles */
+
 .main-content {
     display: flex;
     justify-content: center;
@@ -37,7 +35,6 @@ header {
     border-radius: 5px;
 }
 
-/* Footer Styles */
 footer {
     text-align: center;
     margin-top: 20px;
